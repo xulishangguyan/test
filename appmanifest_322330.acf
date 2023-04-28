@@ -1,0 +1,45 @@
+"AppState"
+{
+	"appid"		"322330"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Don't Starve Together"
+	"StateFlags"		"6"
+	"installdir"		"Don't Starve Together"
+	"LastUpdated"		"1682062498"
+	"SizeOnDisk"		"3104446923"
+	"StagingSize"		"0"
+	"buildid"		"10932926"
+	"LastOwner"		"76561198417325936"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"116135465"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"257098291"
+	"BytesStaged"		"0"
+	"TargetBuildID"		"11100597"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"1682727198"
+	"InstalledDepots"
+	{
+		"322331"
+		{
+			"manifest"		"3716255627391521344"
+			"size"		"3104446923"
+		}
+	}
+	"SharedDepots"
+	{
+		"228982"		"228980"
+		"228988"		"228980"
+		"228990"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"schinese"
+	}
+	"MountedConfig"
+	{
+		"language"		"schinese"
+	}
+}

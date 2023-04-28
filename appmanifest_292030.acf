@@ -1,0 +1,225 @@
+"AppState"
+{
+	"appid"		"292030"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"The Witcher 3: Wild Hunt"
+	"StateFlags"		"4"
+	"installdir"		"The Witcher 3"
+	"LastUpdated"		"1682140181"
+	"SizeOnDisk"		"65665622715"
+	"StagingSize"		"0"
+	"buildid"		"10833438"
+	"LastOwner"		"76561198417325936"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"59282499840"
+	"BytesDownloaded"		"59282499840"
+	"BytesToStage"		"65665622715"
+	"BytesStaged"		"65665622715"
+	"TargetBuildID"		"10833438"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"292031"
+		{
+			"manifest"		"1857235327507891018"
+			"size"		"38852633732"
+		}
+		"292032"
+		{
+			"manifest"		"1600448242881701037"
+			"size"		"222959501"
+		}
+		"292034"
+		{
+			"manifest"		"8535190382909944893"
+			"size"		"60209426"
+		}
+		"292036"
+		{
+			"manifest"		"5003991172069825360"
+			"size"		"2715240344"
+		}
+		"292042"
+		{
+			"manifest"		"9058831402136747250"
+			"size"		"165310784"
+		}
+		"370000"
+		{
+			"manifest"		"8587669897523178114"
+			"size"		"64389140"
+			"dlcappid"		"370000"
+		}
+		"370001"
+		{
+			"manifest"		"3235413892955269022"
+			"size"		"19244721"
+			"dlcappid"		"370001"
+		}
+		"370003"
+		{
+			"manifest"		"6341276480762184035"
+			"size"		"33423633"
+			"dlcappid"		"370003"
+		}
+		"370002"
+		{
+			"manifest"		"9026551407827538748"
+			"size"		"17306453"
+			"dlcappid"		"370002"
+		}
+		"292033"
+		{
+			"manifest"		"5639169236463762487"
+			"size"		"4439952978"
+		}
+		"373950"
+		{
+			"manifest"		"5170617472534824203"
+			"size"		"62676845"
+			"dlcappid"		"373950"
+		}
+		"373951"
+		{
+			"manifest"		"7657599105372340368"
+			"size"		"5832244"
+			"dlcappid"		"373951"
+		}
+		"376390"
+		{
+			"manifest"		"8598373631364439554"
+			"size"		"101819927"
+			"dlcappid"		"376390"
+		}
+		"376391"
+		{
+			"manifest"		"3777662116567624316"
+			"size"		"931216"
+			"dlcappid"		"376391"
+		}
+		"378642"
+		{
+			"manifest"		"768742619169698972"
+			"size"		"148780792"
+			"dlcappid"		"378642"
+		}
+		"378640"
+		{
+			"manifest"		"2830138513832160483"
+			"size"		"192470881"
+			"dlcappid"		"378640"
+		}
+		"378641"
+		{
+			"manifest"		"8379803272169893231"
+			"size"		"12261062"
+			"dlcappid"		"378641"
+		}
+		"378643"
+		{
+			"manifest"		"9026948176577315616"
+			"size"		"64905970"
+			"dlcappid"		"378643"
+		}
+		"378644"
+		{
+			"manifest"		"8127401573968999361"
+			"size"		"63093497"
+			"dlcappid"		"378644"
+		}
+		"378645"
+		{
+			"manifest"		"3270159190667190233"
+			"size"		"153408462"
+			"dlcappid"		"378645"
+		}
+		"378646"
+		{
+			"manifest"		"8580548591072645522"
+			"size"		"1632768"
+			"dlcappid"		"378646"
+		}
+		"378647"
+		{
+			"manifest"		"1010592932582246231"
+			"size"		"13516"
+			"dlcappid"		"378647"
+		}
+		"378648"
+		{
+			"manifest"		"3291066154646201774"
+			"size"		"9157178566"
+			"dlcappid"		"378648"
+		}
+		"378649"
+		{
+			"manifest"		"2544793717688061285"
+			"size"		"1787000594"
+			"dlcappid"		"378649"
+		}
+		"292044"
+		{
+			"manifest"		"3424502390904643476"
+			"size"		"401517780"
+			"dlcappid"		"378649"
+		}
+		"310611"
+		{
+			"manifest"		"9087403118674428852"
+			"size"		"262696726"
+			"dlcappid"		"378649"
+		}
+		"310613"
+		{
+			"manifest"		"2018371724040971764"
+			"size"		"1061417259"
+			"dlcappid"		"378648"
+		}
+		"310619"
+		{
+			"manifest"		"4855315366624356663"
+			"size"		"654772037"
+			"dlcappid"		"378648"
+		}
+		"370008"
+		{
+			"manifest"		"2464451974626396237"
+			"size"		"2859374100"
+		}
+		"370009"
+		{
+			"manifest"		"7647014523034213295"
+			"size"		"556656897"
+		}
+		"373952"
+		{
+			"manifest"		"3562834833176728394"
+			"size"		"421245830"
+			"dlcappid"		"378649"
+		}
+		"373954"
+		{
+			"manifest"		"4906972466604056717"
+			"size"		"1105265034"
+			"dlcappid"		"378648"
+		}
+	}
+	"SharedDepots"
+	{
+		"228984"		"228980"
+		"228985"		"228980"
+		"228988"		"228980"
+		"228990"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"schinese"
+	}
+	"MountedConfig"
+	{
+		"language"		"schinese"
+	}
+}
